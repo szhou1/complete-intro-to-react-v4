@@ -37,7 +37,7 @@
     "@emotion/core": "^10.0.5",
     "@emotion/styled": "^10.0.5",
     "@reach/router": "^1.1.1",
-    "petfinder-client": "^0.0.3",
+    "petfinder-client": "^2.0.2",
     "react": "^16.4.2",
     "react-dom": "^16.4.2"
   }
