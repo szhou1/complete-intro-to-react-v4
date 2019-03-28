@@ -16,7 +16,7 @@ const Spin = keyframes`
 
 const SpyGlass = styled("span")`
   display: inline-block;
-  animation: 1s ${Spin} linear infinite;
+  animation: 15s ${Spin} linear infinite;
 `;
 
 const Container = styled("header")`
